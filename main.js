@@ -1,3 +1,5 @@
+-----------Java Script tute------------------
+
 // let yname = prompt("Enter a name: ","Sasanka");
 // console.log(yname);
 // let confi = confirm("Are you Student?");
